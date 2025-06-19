@@ -1,1 +1,18 @@
-{}
+{
+    "username_password_authentication": {
+        "projectName": "username_password_authentication",
+        "description": "Username-password based authentication flow",
+        "type": "community",
+        "author": "CentroxyGluu",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/CentroxyGluu/my-agama-flow-repo",
+        "githubUri": "https://github.com/CentroxyGluu/my-agama-flow-repo",
+        "license": "apache-2.0",
+        "lastUpdated": "1750343628977",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
