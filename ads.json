@@ -14,7 +14,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "co.acme.password": {}
+            "co.acme.password": {},
+            "co.auth.password": {}
         },
         "name": "username_password_authentication"
     }
